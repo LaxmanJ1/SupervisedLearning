@@ -12,7 +12,7 @@ The project is structured as follows:
 
 ## Files
 - **seeds_dataset_class.csv:** The dataset containing the seed features and class labels.
-- **seed_classification.R:** The main R script that includes the entire workflow, from data loading to model evaluation and visualization.
+- **Supervised.R:** The main R script that includes the entire workflow, from data loading to model evaluation and visualisation.
 
 ## Results
 - The decision tree model provides a visual representation of how the seed types are classified based on their features. The pruning process improves the model's accuracy.
