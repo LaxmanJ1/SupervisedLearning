@@ -6,9 +6,9 @@ This project focuses on classifying different types of seeds based on their phys
 ## Project Structure
 The project is structured as follows:
 - **Data Preparation:** The dataset is randomly shuffled and split into training and test sets.
-- **Decision Tree Model:** A decision tree is trained on the training data, visualised, and pruned for optimization. The model is then tested for accuracy.
+- **Decision Tree Model:** A decision tree is trained on the training data, visualised, and pruned for optimisation. The model is then tested for accuracy.
 - **K-NN Model:** The K-NN algorithm is applied with different values of 'k' to evaluate the model's accuracy on the test data.
-- **Visualization:** Scatter plots are generated to visualise the decision boundaries and the relationship between the seed features.
+- **Visualisation:** Scatter plots are generated to visualise the decision boundaries and the relationship between the seed features.
 
 ## Files
 - **seeds_dataset_class.csv:** The dataset containing the seed features and class labels.
